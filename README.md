@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... scalable application and high integirity systems
 - 🌱 I’m currently learning ... Django
 - 💞️ I’m looking to collaborate on ... python and django.
-- ⚡ 
 - 📫 How to reach me ... rahulkantjha@hotmail.com or Phone +91-8800150411
 
 <!---
