@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahuljhakant
 - 👀 I’m interested in ... scalable application and high integirity systems
-- 🌱 I’m currently learning ... Django
-- 💞️ I’m looking to collaborate on ... python and django.
+- 🌱 I’m interested in collaborating on Test Automation architecture of large scale applications and Django.
+- 💞️ I also contribute on Django and Python projects.
 - 📫 How to reach me ... rahulkantjha@hotmail.com or Phone +91-8800150411
 
 <!---
