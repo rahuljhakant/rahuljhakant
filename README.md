@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahuljhakant
 - 👀 I’m interested in solving the test automation challanges in scalable application and high integirity systems
-- 🌱 I love to collaborate on Test Automation architecture of large scale applications and Django.
+- 🌱 I love to collaborate on Test Automation architecture of large scale applications.
 - 💞️ I also contribute on Django and Python projects.
 - 📫 How to reach me ... rahulkantjha@hotmail.com or Phone +91-8800150411
 
